@@ -1,15 +1,15 @@
-# ECCTY 2026 - Herndon
+# ECCTY Dallas 2026 - DTCC
 
 ![](images/techjam.png)
 
 
-**October 6th - October 7th** 
+**November 18th - November 19th** 
 
-8:00 AM USA EDT to 5:00 PM USA EDT
+9:00 AM USA CST to 5:00 PM USA CST
 
-Herndon, Virginia
-
-* [IBM Herndon Parking Details & QR code:](resources/IBM-Herndon-parking-QRcode.png)
+Dallas, Texas
+##Update parking details for IBM Dallas location
+* [IBM Dallas Parking Details:](resources/IBM-Herndon-parking-QRcode.png)
   * [Or Click this Link:](https://app.parkmobile.io/v2/parking/zone-details?areaNo=36358792)
 
 
