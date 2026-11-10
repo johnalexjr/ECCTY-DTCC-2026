@@ -1,4 +1,4 @@
-# ECCTY 2026 - Herndon, Virginia
+# ECCTY 2026 - Dallas, Texas
 
 ```
 brew install mkdocs
