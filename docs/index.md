@@ -5,10 +5,11 @@
 
 **November 18th - November 19th** 
 
-9:00 AM USA CST to 5:00 PM USA CST
+9:00 AM USA CST to 5:00 PM USA CST Dallas, Texas
+------------------------------------------
 
-Dallas, Texas
-**Parking details for IBM Dallas location**
+**Parking GPS details for IBM Dallas location**
+TWO LOCATIONS: 
 * [South of IBM DAL11 (next to Dallas North Tollway)](
 https://maps.apple/p/gVWTzBteX0K30w)
   * [South of IBM DAL11 (next to Inwood Rd)](
