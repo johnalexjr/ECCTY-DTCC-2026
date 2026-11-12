@@ -10,10 +10,10 @@ Dallas, Texas - 9:00 AM USA CST to 5:00 PM USA CST
 
 **Parking GPS details for IBM Dallas location**
 
-TWO LOCATIONS: 
-- [South of IBM DAL11 (next to Dallas North Tollway)](
+- TWO LOCATIONS: 
+  - [South of IBM DAL11 (next to Dallas North Tollway)](
 https://maps.apple/p/gVWTzBteX0K30w)
-- [South of IBM DAL11 (next to Inwood Rd)](
+  - [South of IBM DAL11 (next to Inwood Rd)](
 https://maps.apple/p/Zje3QSciV1Y1So)
 
 
