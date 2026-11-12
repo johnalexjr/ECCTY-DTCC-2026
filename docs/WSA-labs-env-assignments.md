@@ -1,29 +1,22 @@
 
-<h2 style="color:black">Liberty & Transformation Advisor lab environment assignments</h2>
+<h2 style="color:black">WebSphere Automation lab environment assignments</h2>
 
 
   ![](./images/techjam.png)
 
-
 |              |                          |             |          
 |-------------|---------------------------|-------------|
 Env Num |	Reserved By  |	URL  |
-01 | 
-02 | 
-03 | 
-04 | 
-05 | 
-06 | 
-07 | 
-08 | 
-09 | 
-10 | 
-11 | 
-12 | 
-13 | 
-14 | 
-15 | 
-
+01 | 01.wsa@labs.net |	http://useast.techzone-services.com:37248
+02 | 02.wsa@labs.net |	http://useast.techzone-services.com:27513
+03 | 03.wsa@labs.net |	http://useast.techzone-services.com:21710
+04 | 04.wsa@labs.net |	http://useast.techzone-services.com:45123
+05 | 05.wsa@labs.net |	http://useast.techzone-services.com:39409
+06 | 06.wsa@labs.net |	http://useast.techzone-services.com:42352
+07 | 07.wsa@labs.net |	http://useast.techzone-services.com:42957
+08 | 08.wsa@labs.net |	http://useast.techzone-services.com:45690
+09 | 09.wsa@labs.net |	http://useast.techzone-services.com:20072
+10 | 10.wsa@labs.net |	http://useast.techzone-services.com:31961
 
 
 

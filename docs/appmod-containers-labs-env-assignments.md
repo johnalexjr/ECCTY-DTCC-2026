@@ -1,5 +1,5 @@
 
-<h2 style="color:black">Lab environment assignments - App Modernization using AMA and AMA Dev Tools</h2>
+<h2 style="color:black">Containers and App Modernization lab environment assignments</h2>
 
 
   ![](./images/techjam.png)
@@ -8,16 +8,16 @@
 |              |                          |             |          
 |-------------|---------------------------|-------------|
 Env Num |	Reserved By  |	URL  |
-01 | ECCTY Dallas 1 | 
-02 | ECCTY Dallas 2 | 
-03 | ECCTY Dallas 3 | 
-04 | ECCTY Dallas 4	| 
-05 | ECCTY Dallas 5	| 
-06 | ECCTY Dallas 6	| 
-07 | ECCTY Dallas 7	| 
-08 | ECCTY Dallas 8	| 
-09 | ECCTY Dallas 9	| 
-10 | ECCTY Dallas 10| 
+01 | 01.appmod@labs.net | http://useast.techzone-services.com:35089
+02 | 02.appmod@labs.net | http://useast.techzone-services.com:28379
+03 | 03.appmod@labs.net | http://useast.techzone-services.com:39913
+04 | 04.appmod@labs.net	| http://useast.techzone-services.com:39703
+05 | 05.appmod@labs.net	| http://useast.techzone-services.com:23924
+06 | 06.appmod@labs.net	| http://useast.techzone-services.com:47422
+07 | 07.appmod@labs.net	| http://useast.techzone-services.com:32304
+08 | 08.appmod@labs.net	| http://useast.techzone-services.com:47793
+09 | 09.appmod@labs.net	| http://useast.techzone-services.com:25673
+10 | 10.appmod@labs.net	| http://useast.techzone-services.com:40328
 
 
 
