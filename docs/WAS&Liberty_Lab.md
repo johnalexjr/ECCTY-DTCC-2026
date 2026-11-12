@@ -3,7 +3,7 @@
 
 Time | Session 
 --------------|----------
-3:00 PM - 5:00 PM | Hands-on labs
+2:30 PM - 5:00 PM CT| Hands-on labs
 
 
 <br/>

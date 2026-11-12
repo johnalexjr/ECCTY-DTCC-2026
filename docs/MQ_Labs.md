@@ -1,6 +1,8 @@
 <h2 style="color:black">IBM ECCTY Dallas: Integration MQ Labs</h2>
 
-
+Time | Session 
+--------------|----------
+2:30 PM - 5:00 PM CT| Hands-on labs
 
 ### IBM MQ Labs
 
