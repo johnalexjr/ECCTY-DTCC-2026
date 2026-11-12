@@ -23,7 +23,11 @@ Dallas, Texas
       - [BAW](https://teams.microsoft.com/meet/2126970171689639?p=Ofm8WO3PYrzG8KbzrT)
       - [Confluent](https://teams.microsoft.com/meet/2554124581511865?p=e0hQ3gm7Msk8XUVJ85)
       
+      [TEAMS Details and Room Assignments:(Password will be provided during session)](resources/2026 ECCTY Seminar (DTCC) Room Assignment and Teams URL.pdf)
+      
       [Room Assignments (Day 1 & Day2)](images/ECCTY Dallas 2026 Room Assignments for sessions.png)
+
+      resources/2026 ECCTY Seminar (DTCC) Room Assignment and Teams URL.pdf
 
 ---------------------------------------
 
