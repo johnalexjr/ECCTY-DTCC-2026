@@ -3,8 +3,11 @@
 ![](images/techjam.png)
 
 
-**November 18th - November 19th** 
-Dallas, Texas - 9:00 AM USA CST to 5:00 PM USA CST 
+**Dates: November 18th - November 19th** 
+
+**Location: IBM Dallas: 14001 Dallas Parkway, Dallas, TX 75240​**
+
+**Time: 9:00 AM USA CST to 5:00 PM USA CST**
 
 ------------------------------------------
 
