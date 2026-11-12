@@ -1,15 +1,15 @@
-# ECCTY 2026 - Herndon
+# IBM ECCTY Dallas 2026 - DTCC
 
 ![](images/techjam.png)
 
 
-**October 6th - October 7th** 
+**November 18th - November 19th** 
 
-8:00 AM USA EDT to 5:00 PM USA EDT
+9:00 AM USA CST to 5:00 PM USA CST
 
-Herndon, Virginia
-
-* [IBM Herndon Parking Details & QR code:](resources/IBM-Herndon-parking-QRcode.png)
+Dallas, Texas
+##Update parking details for IBM Dallas location
+* [IBM Dallas Parking Details:](resources/IBM-Herndon-parking-QRcode.png)
   * [Or Click this Link:](https://app.parkmobile.io/v2/parking/zone-details?areaNo=36358792)
 
 
@@ -17,13 +17,16 @@ Herndon, Virginia
 
 **Join by Teams:**  
 
-  - Tuesday, October 6th, 2026  & Wednesday, October 7th, 2026
-      - [General session](https://teams.microsoft.com/meet/241586687862588?p=4Q1gx3zQ2Bsq77A6aY)
+  - Wednesday, November 18th, 2026  & Thursday, November 19th, 2026
+      - [General session & WAS ](https://teams.microsoft.com/meet/2274881042186935?p=unOKDZTKjvvlbia0AQ)
+      - [MQ & ACE](https://teams.microsoft.com/meet/2913882321815664?p=0JJJn3AfctJ9ASUgem)
+      - [BAW](https://teams.microsoft.com/meet/2126970171689639?p=Ofm8WO3PYrzG8KbzrT)
+      - [Confluent](https://teams.microsoft.com/meet/2554124581511865?p=e0hQ3gm7Msk8XUVJ85)
       
 
 ---------------------------------------
 
-**ECCTY 2026 Agenda** 
+**IBM ECCTY 2026 Agenda** 
 
   - This is a 2 day technical workshop.  
   - Refer to the daily labs pages from the left-navigation section.
