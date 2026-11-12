@@ -8,9 +8,11 @@
 9:00 AM USA CST to 5:00 PM USA CST
 
 Dallas, Texas
-##Update parking details for IBM Dallas location
-* [IBM Dallas Parking Details:](resources/IBM-Herndon-parking-QRcode.png)
-  * [Or Click this Link:](https://app.parkmobile.io/v2/parking/zone-details?areaNo=36358792)
+**Parking details for IBM Dallas location**
+* [South of IBM DAL11 (next to Dallas North Tollway)](
+https://maps.apple/p/gVWTzBteX0K30w)
+  * [South of IBM DAL11 (next to Inwood Rd)](
+https://maps.apple/p/Zje3QSciV1Y1So)
 
 
 ------------------------------------------
