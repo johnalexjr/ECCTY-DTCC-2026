@@ -4,15 +4,16 @@
 
 
 **November 18th - November 19th** 
+Dallas, Texas - 9:00 AM USA CST to 5:00 PM USA CST 
 
-9:00 AM USA CST to 5:00 PM USA CST Dallas, Texas
 ------------------------------------------
 
 **Parking GPS details for IBM Dallas location**
+
 TWO LOCATIONS: 
-* [South of IBM DAL11 (next to Dallas North Tollway)](
+- [South of IBM DAL11 (next to Dallas North Tollway)](
 https://maps.apple/p/gVWTzBteX0K30w)
-  * [South of IBM DAL11 (next to Inwood Rd)](
+- [South of IBM DAL11 (next to Inwood Rd)](
 https://maps.apple/p/Zje3QSciV1Y1So)
 
 
@@ -26,9 +27,9 @@ https://maps.apple/p/Zje3QSciV1Y1So)
       - [BAW](https://teams.microsoft.com/meet/2126970171689639?p=Ofm8WO3PYrzG8KbzrT)
       - [Confluent](https://teams.microsoft.com/meet/2554124581511865?p=e0hQ3gm7Msk8XUVJ85)
       
-      [TEAMS Details and Room Assignments:(Password will be provided during session)](resources/2026 ECCTY Seminar (DTCC) Room Assignment and Teams URL.pdf)
+      - [TEAMS Details and Room Assignments:(Password will be provided during session)](resources/2026 ECCTY Seminar (DTCC) Room Assignment and Teams URL.pdf)
       
-      [Room Assignments (Day 1 & Day2)](images/ECCTY Dallas 2026 Room Assignments for sessions.png)
+  [Room Assignments (Day 1 & Day2)](images/ECCTY Dallas 2026 Room Assignments for sessions.png)
 
       
 ---------------------------------------
