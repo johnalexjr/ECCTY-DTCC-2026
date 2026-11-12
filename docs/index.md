@@ -27,8 +27,7 @@ Dallas, Texas
       
       [Room Assignments (Day 1 & Day2)](images/ECCTY Dallas 2026 Room Assignments for sessions.png)
 
-      resources/2026 ECCTY Seminar (DTCC) Room Assignment and Teams URL.pdf
-
+      
 ---------------------------------------
 
 **IBM ECCTY 2026 Agenda** 
@@ -36,11 +35,11 @@ Dallas, Texas
   - This is a 2 day technical workshop.  
   - Refer to the daily labs pages from the left-navigation section.
   
-  
+- [Click here for the agenda PDF](resources/2026 ECCTY Seminar (DTCC) Agenda.pdf)
 
 **Agenda**
 
-[Click here for the agenda PDF](resources/2026 ECCTY Seminar (DTCC) Agenda.pdf)
+
 
 **Feedback Survey**
 
