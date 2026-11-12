@@ -40,7 +40,7 @@ Dallas, Texas
 
 **Agenda**
 
-[Click here for the agenda PDF](resources/2026 ECCTY Presentation - Agenda Only.pdf)
+[Click here for the agenda PDF](resources/2026 ECCTY Seminar (DTCC) Agenda.pdf)
 
 **Feedback Survey**
 
