@@ -39,13 +39,15 @@ Dallas, Texas
 
 **Feedback Survey**
 
-[Feedback Survey (Online survey only for NFCU – Others will be provided Hard Copy)](resources/ECCTY Herndon 2026 Survey .png)
+[Feedback Survey (Online survey)](images/SV_00Pg3w0AiXbRkOi-qrcode.png)
+
+- [Feedback Survey](https://your.feedback.ibm.com/jfe/form/SV_00Pg3w0AiXbRkOi)
 
 
 **Hands on Activities**
 
 
-From the _navigation menu_, select the **Day 1 Labs and Day 2 Labs** menu option.  
+From the _navigation menu_, select the **MQ Labs and WAS Labs** menu option.  
 
 There, you will find the links to the hands-on **lab guides** and information to accces the **Lab environments** 
 

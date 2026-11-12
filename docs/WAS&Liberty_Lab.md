@@ -1,5 +1,5 @@
 
-<h2 style="color:black">Day 2: Application Platform Labs</h2>
+<h2 style="color:black">IBM ECCTY Dallas: Application Platform WAS Labs</h2>
 
 Time | Session 
 --------------|----------

@@ -1,4 +1,4 @@
-<h2 style="color:black">Day 1: Integration Labs</h2>
+<h2 style="color:black">IBM ECCTY Dallas: Integration MQ Labs</h2>
 
 
 
