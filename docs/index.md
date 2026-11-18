@@ -42,6 +42,7 @@ https://maps.apple/p/Zje3QSciV1Y1So)
   
     - [Click here for the agenda by products PDF](resources/2026 ECCTY Seminar (DTCC) Agenda.pdf)
     - [Click here for the agenda only by time PDF](resources/DTCC - EC Comes to You Seminar - November 18th & 19th 2026 Agenda Only.pdf)
+    
 
 **Agenda**
 
